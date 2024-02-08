@@ -1,0 +1,17 @@
+h2{
+    background-color:black;
+}
+form.login-form
+{
+    text-align:center;
+    color: blueviolet;
+}
+div.info
+ {
+    text-align: center;
+    margin: 20px auto ;
+    border: 15px solid green;
+    width: 300px;
+    padding: 30px;
+    background-color: lightgrey;
+}
